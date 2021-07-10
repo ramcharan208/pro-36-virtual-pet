@@ -39,7 +39,7 @@ function setup() {
 }
 
 function draw() {
-  background(46,139,87);
+  background(0,255,255);
 
  
   foodObj.display();
